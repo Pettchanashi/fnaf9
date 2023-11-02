@@ -1,11 +1,11 @@
 {
-  "Author": "Infi, Cadaeix",
-  "Name": "XIVLogger",
-  "InternalName": "XIVLogger",
-  "Punchline": "Save chat logs to your computer as text files or copy them!",
-  "Description": "Save chat logs as text files from when this is loaded. /xivlogger for settings, /savelog to save logs, /copylogs to copy logs.",
+  "Author": "William Afton",
+  "Name": "FNAF9",
+  "InternalName": "FNAF9",
+  "Punchline": "Love Freddy",
+  "Description": "Love Freddy",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/Infiziert90/XIVLogger",
+  "RepoUrl": "https://github.com/Pettchanashi/fnaf9",
   "Tags": [
     "xivlauncher",
     "plugin",
