@@ -1,0 +1,20 @@
+[
+	{
+		"Author": "William Afton",
+		"Name": "FNAF 9",
+		"InternalName": "FNAF 9",
+		"Description": "Love Freddy",
+		"AssemblyVersion": "6.9",
+		"TestingAssemblyVersion": "6.9",
+		"RepoUrl": "https://github.com/Pettchanashi/fnaf9/",
+		"ApplicableVersion": "any",
+		"DalamudApiLevel": 9,
+		"Tags": [
+			"freddy"
+		],
+		"IconUrl": "https://github.com/Pettchanashi/fnaf9/blob/master/Assets/icon.png",
+		"DownloadLinkInstall": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.19/latest.zip",
+		"DownloadLinkTesting": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.19/latest.zip",
+		"DownloadLinkUpdate": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.2.19/latest.zip"
+	}
+]
